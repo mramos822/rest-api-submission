@@ -15,7 +15,7 @@ Submit student details to the following RESTful API endpoint as JSON:
   "first_name": "Mariano",
   "last_name": "Ramos",
   "github_username": "mramos822",
-  "discord_username": "bluelite#1234",
+  "discord_username": "bluelite",
   "favorite_cartoon": "Regular Show",
   "favorite_language": "Python",
   "movie_or_game_or_book": "Portal 2"
